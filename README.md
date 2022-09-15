@@ -1,4 +1,4 @@
-# dboficiaDIO
+# dboficinaDIO
 Esquema conceitual para o contexto de oficina
 
 
